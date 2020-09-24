@@ -1,0 +1,27 @@
+{
+    "name":"vs7/magento-module-customermerge",
+    "type":"magento-module",
+    "version":"0.1.0",
+    "license": "OSL-3.0",
+    "description": "Magento extension. Useful admin tool when transitioning from multistore customers to global customer.",
+    "keywords": [
+        "magento",
+        "magento1",
+        "vs7",
+        "admin",
+        "customer",
+        "merge",
+        "tool"
+    ],
+    "authors": [
+        {
+            "name": "VS7, Vladislav Gevlich",
+            "email": "vs7develop@gmail.com",
+            "homepage": "https://vs7.io"
+        }
+    ],
+    "homepage": "https://github.com/vs7/magento-module-customermerge",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

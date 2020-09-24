@@ -1,0 +1,17 @@
+.vs7_customermerge-website__container {
+    display: flex;
+}
+
+.vs7_customermerge-website {
+    margin: 0 10px 0 0;
+    border: 1px solid #aaa;
+    justify-content: space-between;
+}
+
+.vs7_customermerge-website.vs7_customermerge-website--active {
+    border: 3px solid #f55;
+}
+
+.vs7_customermerge-website__data {
+    padding: 5px;
+}

@@ -1,0 +1,4 @@
+app/code/community/VS7/CustomerMerge                                 app/code/community/VS7/CustomerMerge
+app/etc/modules/VS7_CustomerMerge.xml                                app/etc/modules/VS7_CustomerMerge.xml
+app/design/adminhtml/default/default/layout/vs7_customermerge.xml    app/design/adminhtml/default/default/layout/vs7_customermerge.xml
+skin/adminhtml/default/default/vs7_customermerge                     skin/adminhtml/default/default/vs7_customermerge

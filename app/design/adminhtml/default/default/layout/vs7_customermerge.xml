@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout>
+    <adminhtml_vs7_customermerge_edit>
+        <reference name="head">
+            <action method="addCss">
+                <stylesheet>vs7_customermerge/styles.css</stylesheet>
+            </action>
+        </reference>
+    </adminhtml_vs7_customermerge_edit>
+</layout>
